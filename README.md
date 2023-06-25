@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @techshetty
+- 👋 Hi, I’m Pratheek G Shetty, a B.E student pursuing my degree in Computer Scince and Engineering
 - 👀 I’m interested in ... programming
 - 🌱 I’m currently learning Java
 

@@ -1,7 +1,7 @@
 
-## 👋Hey folks, I'm Pratheek Shetty<b>
+# 👋Hey folks, I'm Pratheek Shetty<b>
 ## Competitive Programmer | Full Stack Dev</b>
-# ⚙️About me 
+### ⚙️About me 
  I’m a Full Stack Developer with a passion for Competitive Programming and modern web tech.  <br>💻 Currently working on innovative projects and staying updated with the latest tools and practices.  <br>🤝 Open to collaborating on exciting projects and tackling complex challenges.<br>
 
 

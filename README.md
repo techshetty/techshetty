@@ -1,8 +1,8 @@
 
-## Hey folks, I'm Pratheek Shetty<b>
+## 👋Hey folks, I'm Pratheek Shetty<b>
 ## Competitive Programmer | Full Stack Dev</b>
 # ⚙️About me 
-👋 I’m a Full Stack Developer with a passion for Competitive Programming and modern web tech.  <br>💻 Currently working on innovative projects and staying updated with the latest tools and practices.  <br>🤝 Open to collaborating on exciting projects and tackling complex challenges.<br>
+ I’m a Full Stack Developer with a passion for Competitive Programming and modern web tech.  <br>💻 Currently working on innovative projects and staying updated with the latest tools and practices.  <br>🤝 Open to collaborating on exciting projects and tackling complex challenges.<br>
 
 
 ## 🌐 Connect with me:
@@ -11,7 +11,7 @@
 [![Steam](https://skillicons.dev/icons?i=linkedin)](https://linkendin.com/techshetty)
 
 # 💻 Tech Stack:
-[![](https://skillicons.dev/icons?i=html,css,js,java,c,cpp,python,react,nextjs,mongodb,nodejs,express,laravel,php,gcp,git,arduino)]()
+[![](https://skillicons.dev/icons?i=html,css,js,java,c,cpp,python,react,nextjs,mongodb,express,laravel,php,gcp,git)]()
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=techshetty&theme=dark&hide_border=false)<br/>
 ---

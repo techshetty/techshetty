@@ -7,8 +7,6 @@
 
 ## 🌐 Connect with me:
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkendin.com/techshetty)
-[![Reddit](https://skillicons.dev/icons?i=linkedin)](https://linkendin.com/techshetty)
-[![Steam](https://skillicons.dev/icons?i=linkedin)](https://linkendin.com/techshetty)
 
 # 💻 Tech Stack:
 [![](https://skillicons.dev/icons?i=html,css,js,java,c,cpp,python,react,nextjs,mongodb,express,laravel,php,gcp,git)]()

@@ -1,5 +1,5 @@
 # 👋Hey folks, I'm Pratheek Shetty<b>
-<img align='right' src='https://hacktoberfest.com/_next/static/media/sloan-the-sloth.8ed4b34d.svg' width='200'>
+ <img align='right' src='https://hacktoberfest.com/_next/static/media/sloan-the-sloth.8ed4b34d.svg' width='200'>
 ## Competitive Programmer | Full Stack Dev</b>
 ### ⚙️About me 
  I’m a Full Stack Developer with a passion for Competitive Programming and modern web tech.  <br>💻 Currently working on innovative projects and staying updated with the latest tools and practices.  <br>🤝 Open to collaborating on exciting projects and tackling complex challenges.<br>

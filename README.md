@@ -4,9 +4,10 @@
 
 ***Competitive Programmer | Full Stack Dev***
 
-### ⚙️ About me
-⚙️ I’m a Full Stack Developer with a passion for Competitive Programming and Web Development.  
-💻 Currently working on innovative projects and staying updated with the latest tools and practices.  
+⚙️ I’m a Full Stack Developer with a passion for Competitive Programming and Web Development.
+
+💻 Currently working on innovative projects and staying updated with the latest tools and practices. 
+
 🤝 Open to collaborating on exciting projects and tackling complex challenges.
 
 ## 🌐 Connect with me:

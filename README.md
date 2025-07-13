@@ -1,6 +1,6 @@
 # 👋 Hey folks, I'm Pratheek Shetty
 
-<img align='right' src='https://upload.wikimedia.org/wikipedia/commons/8/83/The_GNU_logo.png' width='400'>
+<img align='right' src='https://upload.wikimedia.org/wikipedia/commons/8/83/The_GNU_logo.png' width='100'>
 
 ***Competitive Programmer | Full Stack Dev***
 
